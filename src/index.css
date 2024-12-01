@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css or your global stylesheet */
+body {
+  @apply bg-cover bg-center;
+  background-image: url('src/assets/Vector 26.jpg');
+  }

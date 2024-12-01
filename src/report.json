@@ -1,0 +1,19 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "Water Usage",
+        "waterRequired": [
+          { "id": "a1", "waterRequired": 50 }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Money Savings",
+        "moneySaves": [
+          { "id": "b1", "moneySaves": 60 }
+        ]
+      }
+    ]
+  }
+  

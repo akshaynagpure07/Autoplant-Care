@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731764593/Purple-Queenreg-Bougainvillea-e1714591414441_re9som.jpg",
+        "plantName": "Bougainvillea",
+        "scientificName": "Bougainvillea spectabilis",
+        "benefits": [
+            "Drought Resistant",
+            "Low Maintenance",
+            "Bright Vibrant Colors"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A vibrant, woody climber known for its colorful bracts. It can withstand hot, dry climates."
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731764633/aloe-vera-gel-4fl-oz-carriers-aromatics-international-996794_gfl7bf.jpg",
+        "plantName": "Aloe Vera",
+        "scientificName": "Aloe barbadensis miller",
+        "benefits": [
+            "Medicinal Properties",
+            "Drought Resistant",
+            "Minimal Water Needs"
+        ],
+        "wateringCycle": "15 - 20 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A hardy succulent known for its medicinal uses, surviving in hot, dry conditions."
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731765109/Agave-americana_ihcl64.jpg",
+        "plantName": "Agave",
+        "scientificName": "Agave americana",
+        "benefits": [
+            "Architectural Shape",
+            "Drought Resistant",
+            "Minimal Water Needs"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 4 L",
+        "plantsFor1kmDivider": "200 - 300 plants",
+        "description": "A spiky succulent known for its low water needs and attractive shape, perfect for dry areas."
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731764700/fd17382wh_pokej7.jpg",
+        "plantName": "Oleander",
+        "scientificName": "Nerium oleander",
+        "benefits": [
+            "Evergreen",
+            "Flowers Year-Round",
+            "Pollution and Drought Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "An evergreen shrub that tolerates pollution and drought, with colorful flowers throughout the year."
+    },
+    {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731764774/juniper_mtj06b.jpg",
+        "plantName": "Juniper",
+        "scientificName": "Juniperus communis",
+        "benefits": [
+            "Dense Growth",
+            "Low Maintenance",
+            "Reduces Headlight Glare"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "An evergreen shrub with dense growth that is perfect for reducing glare and providing low maintenance greenery."
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731765621/CUBANGOLD3_1400x_f1shxo.jpg",
+        "plantName": "Golden Duranta",
+        "scientificName": "Duranta erecta",
+        "benefits": [
+            "Golden Foliage",
+            "Dense Growth",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A dense shrub with golden foliage that requires minimal water and care."
+    },
+    {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731765663/singapuri-ixora-red-plant-vgr-gardens_yemqca.jpg",
+        "plantName": "Ixora",
+        "scientificName": "Ixora coccinea",
+        "benefits": [
+            "Bright Flower Clusters",
+            "Low Maintenance",
+            "Adds Color"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering shrub with colorful clusters of flowers that thrives with minimal care."
+    },
+    {
+        "id": 8,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731765691/ArecaPalmHuge_Natural_Bamboo_f4f4b0b7-951b-4700-967b-ed00ce61b662_eiex0u.jpg",
+        "plantName": "Areca Palm",
+        "scientificName": "Dypsis lutescens",
+        "benefits": [
+            "Tall and Bushy",
+            "Drought Tolerant",
+            "Adds Vertical Greenery"
+        ],
+        "wateringCycle": "10 - 12 Days",
+        "waterRequired": "3 - 5 L",
+        "plantsFor1kmDivider": "200 - 300 plants",
+        "description": "A tall palm that adds vertical greenery and can withstand drought conditions."
+    },
+    {
+        "id": 9,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731766081/image_efqtih.jpg",
+        "plantName": "Date Palm",
+        "scientificName": "Phoenix dactylifera",
+        "benefits": [
+            "Ornamental",
+            "Low Maintenance",
+            "Hardy"
+        ],
+        "wateringCycle": "15 - 20 Days",
+        "waterRequired": "4 - 5 L",
+        "plantsFor1kmDivider": "150 - 200 plants",
+        "description": "A hardy palm tree that requires minimal water and adds an ornamental touch."
+    },
+    {
+        "id": 10,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731766115/Hibiscus_red__10753.1592262585.1280.1280_qnv8si.jpg",
+        "plantName": "Hibiscus",
+        "scientificName": "Hibiscus rosa-sinensis",
+        "benefits": [
+            "Large, Colorful Flowers",
+            "Tropical Plant",
+            "Aesthetic Appeal"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A tropical shrub known for its large, vibrant flowers that thrive in warm climates."
+    },
+    {
+        "id": 11,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731766169/CGHidcoteLavenderPrimary_1200x1200_kdggt2.jpg",
+        "plantName": "Lavender",
+        "scientificName": "Lavandula",
+        "benefits": [
+            "Fragrant",
+            "Pest Resistant",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A herbaceous plant with fragrant purple flowers, known for its drought tolerance."
+    },
+    {
+        "id": 12,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731766238/Ceratostigma_plumbaginoides_0005_high_res__97175.1558021315_jenmtr.jpg",
+        "plantName": "Plumbago",
+        "scientificName": "Plumbago auriculata",
+        "benefits": [
+            "Blue Flowers",
+            "Hardy",
+            "Attracts Pollinators"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A hardy flowering shrub with blue flowers that attract pollinators."
+    },
+    {
+        "id": 13,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1732302763/gabriella-plants-euphorbia-milii-dwarf-rosie-4-40706273083637_abvxlz.jpg",
+        "plantName": "Euphorbia milii",
+        "scientificName": "Crown of Thorns",
+        "benefits": [
+            "Thorny",
+            "Low Water Needs",
+            "Colorful Flowers"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A thorny succulent known for its colorful flowers and drought tolerance."
+    },
+    {
+        "id": 14,
+        "image":"https://res.cloudinary.com/dq3m6mhju/image/upload/v1731766286/il_1080xN.4059578267_jfpm_wcvk5i.jpg",
+        "plantName": "Lantana",
+        "scientificName": "Lantana camara",
+        "benefits": [
+            "Vibrant Flowers",
+            "Invasive",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A hardy shrub with vibrant flowers that is highly drought tolerant."
+    },
+    {
+        "id": 15,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767079/91pMyPZHOtL_nnsnnp.jpg",
+        "plantName": "Pandanus",
+        "scientificName": "Screw Pine",
+        "benefits": [
+            "Spiky Leaves",
+            "Drought Resistant",
+            "Low Maintenance"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A tropical shrub with spiky leaves that requires minimal water and care."
+    },
+    {
+        "id": 16,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767194/FicusBenjaminaMichlersFlorist_fqgg0j.jpg",
+        "plantName": "Ficus benjamina",
+        "scientificName": "Weeping Fig",
+        "benefits": [
+            "Fast Growing",
+            "Pollution Tolerant",
+            "Urban Friendly"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A fast-growing tree that tolerates urban pollution and requires minimal maintenance."
+    },
+    {
+        "id": 17,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767257/Yucca_filamentosastraightspecies_1024x1024_vqvuep.jpg",
+        "plantName": "Yucca",
+        "scientificName": "Yucca filamentosa",
+        "benefits": [
+            "Architectural Shape",
+            "Sword-Like Leaves",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "200 - 300 plants",
+        "description": "A drought-tolerant shrub with sharp, sword-like leaves that gives an architectural appearance."
+    },
+    {
+        "id": 18,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767363/photo-1532920161727-344adb090f7f_dwircj.jpg",
+        "plantName": "Bamboo",
+        "scientificName": "Bambusa",
+        "benefits": [
+            "Fast Growing",
+            "Creates Natural Screen",
+            "Minimal Care"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "4 - 5 L",
+        "plantsFor1kmDivider": "150 - 200 plants",
+        "description": "A fast-growing grass that can be used to create a natural screen."
+    },
+    {
+        "id": 19,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767582/spiderwort-b5e18a58-095e7b4454f14c8692121a8b1d2aa533_ygaehq.jpg",
+        "plantName": "Tradescantia",
+        "scientificName": "Spiderwort",
+        "benefits": [
+            "Purple-Green Leaves",
+            "Ground Cover",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A drought-tolerant groundcover with purple-green leaves."
+    },
+    {
+        "id": 20,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767644/6091_PortulacaDoubleMixedColorsMossRoseflowerseeds_FerryMorse_ei3sei.jpg",
+        "plantName": "Portulaca",
+        "scientificName": "Moss Rose",
+        "benefits": [
+            "Bright Flowers",
+            "Minimal Water Needs",
+            "Heat Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A succulent with bright flowers that thrives in hot, dry climates."
+    },
+    {
+        "id": 21,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767797/Sedum-acre-Aureum-MAY2-e1558394562485_xis3m2.jpg",
+        "plantName": "Sedum",
+        "scientificName": "Sedum spp.",
+        "benefits": [
+            "Low Growing",
+            "Drought Tolerant",
+            "Minimal Care"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A succulent known for its low-growing nature and ability to tolerate drought."
+    },
+    {
+        "id": 22,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731768633/4e238737203176e283e311ac98fbde11_1920x-1_kzu3bj.jpg",
+        "plantName": "Creeping Phlox",
+        "scientificName": "Phlox subulata",
+        "benefits": [
+            "Flowering Mat",
+            "Low Maintenance",
+            "Spreads Easily"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering groundcover that spreads easily and requires minimal maintenance."
+    },
+    {
+        "id": 23,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767838/pentas-lanceolata-dwarf-red-square-michers_q7bfqv.jpg",
+        "plantName": "Pentas",
+        "scientificName": "Pentas lanceolata",
+        "benefits": [
+            "Star-Shaped Flowers",
+            "Pollinator Friendly",
+            "Drought Resistant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering shrub with star-shaped flowers that attract pollinators and are drought-resistant."
+    },
+    {
+        "id": 24,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767866/70000995-flower_ih2oyy.jpg",
+        "plantName": "Gazania",
+        "scientificName": "Gazania rigens",
+        "benefits": [
+            "Bright Flowers",
+            "Heat and Drought Tolerant",
+            "Low Growing"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A heat-tolerant flowering plant with bright flowers and low-growing nature."
+    },
+    {
+        "id": 25,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767883/the-plant-farm-houseplants-rhoeo-spathacea-tricolor-4-plant-41592952488244_a9scrr.jpg",
+        "plantName": "Rhoeo",
+        "scientificName": "Tradescantia spathacea",
+        "benefits": [
+            "Purple-Green Leaves",
+            "Minimal Care",
+            "Colorful Foliage"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A groundcover plant with vibrant purple-green leaves that requires minimal care."
+    },
+    {
+        "id": 26,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767914/Marigold-French-Double-Dwarf-Flower-Annual-Ferry-Morse_etx1bw.jpg",
+        "plantName": "Marigold",
+        "scientificName": "Tagetes",
+        "benefits": [
+            "Bright Flowers",
+            "Pest Repellent",
+            "Hardy"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A hardy flowering plant known for its bright flowers and pest-repellent properties."
+    },
+    {
+        "id": 27,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767939/Asparagusplumosusc_1800x1800_pv4677.jpg",
+        "plantName": "Asparagus Fern",
+        "scientificName": "Asparagus setaceus",
+        "benefits": [
+            "Feathery Green Leaves",
+            "Drought Resistant",
+            "Minimal Care"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A groundcover plant with feathery leaves that is highly drought-resistant."
+    },
+    {
+        "id": 28,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767966/il_fullxfull.4719823667_9hdr_vnt9g9.jpg",
+        "plantName": "Euphorbia tirucalli",
+        "scientificName": "Pencil Cactus",
+        "benefits": [
+            "Thin, Pencil-Like Stems",
+            "Low Water Needs",
+            "Architectural"
+        ],
+        "wateringCycle": "15 - 20 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A succulent with pencil-like stems that requires minimal water and adds an architectural flair."
+    },
+    {
+        "id": 29,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731767988/rn-image_picker_lib_temp_1ba9416c-c673-4acf-a0c7-3f5d5031b02e_jf9iqk.jpg",
+        "plantName": "Alamanda",
+        "scientificName": "Allamanda cathartica",
+        "benefits": [
+            "Yellow Flowers",
+            "Hardy",
+            "Provides Color"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering vine with vibrant yellow flowers that adds color and thrives in harsh conditions."
+    },
+    {
+        "id": 30,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731768008/Cordyline-Moonlight-scaled_dr6kag.jpg",
+        "plantName": "Cordyline",
+        "scientificName": "Cordyline fruticosa",
+        "benefits": [
+            "Red/Purple Leaves",
+            "Adds Color",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "10 - 12 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A tropical shrub with colorful leaves that is drought-tolerant and easy to maintain."
+    },
+    {
+        "id": 31,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731768998/A1exTWXZPML_rbr84t.jpg",
+        "plantName": "Calotropis",
+        "scientificName": "Calotropis gigantea",
+        "benefits": [
+            "White/Purple Flowers",
+            "Pollution Resistant",
+            "Hardy"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A hardy shrub with pollution-resistant properties and white/purple flowers."
+    },
+    {
+        "id": 32,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769035/Coleus-Flower-Annual-Ferry-Morse_80bafa78-c224-45be-8f9c-4c73aa16be88_mziwle.jpg",
+        "plantName": "Fountain Grass",
+        "scientificName": "Pennisetum setaceum",
+        "benefits": [
+            "Ornamental",
+            "Drought Tolerant",
+            "Plume-Like Flowers"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "An ornamental grass with plume-like flowers that thrives in drought conditions."
+    },
+    {
+        "id": 33,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1732303079/coleusrainbowmix_duyvsl.jpg",
+        "plantName": "Coleus",
+        "scientificName": "Plectranthus scutellarioides",
+        "benefits": [
+            "Colorful Leaves",
+            "Adds Color",
+            "Minimal Care"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering plant known for its vibrant, colorful leaves and easy care."
+    },
+    {
+        "id": 34,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769059/Vinca-minor-Alba-November-Flower-scaled_dwjzsy.jpg",
+        "plantName": "Vinca",
+        "scientificName": "Catharanthus roseus",
+        "benefits": [
+            "Drought Tolerant",
+            "Groundcover",
+            "Small Flowers"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A spreading groundcover plant with small flowers that thrives in dry conditions."
+    },
+    {
+        "id": 35,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769083/RiverCityHeirlomChrysanthemum-min_fmo8n2.jpg",
+        "plantName": "Chrysanthemum",
+        "scientificName": "Chrysanthemum morifolium",
+        "benefits": [
+            "Vibrant Flowers",
+            "Hardy",
+            "Seasonal Color"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A flowering plant known for its bright, seasonal flowers and hardy nature."
+    },
+    {
+        "id": 36,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769130/cassia-leptophylla_sg91w9.jpg",
+        "plantName": "Cassia",
+        "scientificName": "Cassia fistula",
+        "benefits": [
+            "Yellow Flowers",
+            "Pollution Resistant",
+            "Fast Growing"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A fast-growing shrub or tree with yellow flowers that is highly pollution-resistant."
+    },
+    {
+        "id": 37,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769157/canna_toucan_coral_canna_lily_gc_cantc_02_gbuwie.jpg",
+        "plantName": "Canna Lily",
+        "scientificName": "Canna indica",
+        "benefits": [
+            "Large Leaves",
+            "Bright Flowers",
+            "Low Maintenance"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A tropical plant known for its large leaves and bright flowers that require minimal care."
+    },
+    {
+        "id": 38,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769175/beautiful-crassula-ovata-jade-plant-money-plant-royalty-free-image-1722349156.jpg_kdzlud.jpg",
+        "plantName": "Jade Plant",
+        "scientificName": "Crassula ovata",
+        "benefits": [
+            "Thick, Fleshy Leaves",
+            "Low Water Requirements",
+            "Hardy"
+        ],
+        "wateringCycle": "15 - 20 Days",
+        "waterRequired": "1 - 2 L",
+        "plantsFor1kmDivider": "300 - 400 plants",
+        "description": "A succulent known for its fleshy leaves and ability to thrive with minimal water."
+    },
+    {
+        "id": 39,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769193/glandularia_20canadensis.cmyk.mervBCWEB_MG_7754__32302.1690554634_dlqaq2.jpg",
+        "plantName": "Verbena",
+        "scientificName": "Verbena officinalis",
+        "benefits": [
+            "Purple Flowers",
+            "Spreading Groundcover",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "10 - 15 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A groundcover plant with purple flowers that spreads easily and is drought-tolerant."
+    },
+    {
+        "id": 40,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769245/70019285-flower_g5icen.jpg",
+        "plantName": "Dianthus",
+        "scientificName": "Dianthus barbatus",
+        "benefits": [
+            "Fragrant Flowers",
+            "Adds Color",
+            "Minimal Care"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering plant with fragrant blooms that is easy to care for and adds vibrant color."
+    },
+    {
+        "id": 41,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769904/RG_-_Dwarf_Plumeria_-_1_jnazbl.jpg",
+        "plantName": "Plumeria",
+        "scientificName": "Plumeria rubra",
+        "benefits": [
+            "Fragrant Flowers",
+            "Heat and Drought Tolerant",
+            "Tropical"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A tropical tree known for its fragrant white and yellow flowers that thrive in heat."
+    },
+    {
+        "id": 42,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731769975/7E85F14B-2891-4D4D-9812-D5D99991ACB5_1024x1024_2x_g5yv7t.jpg",
+        "plantName": "Spider Plant",
+        "scientificName": "Chlorophytum comosum",
+        "benefits": [
+            "Long, Arching Leaves",
+            "Low Maintenance",
+            "Hardy"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A groundcover plant with long leaves that is easy to care for and thrives in various conditions."
+    },
+    {
+        "id": 43,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770012/81QsZStIepL_zetoju.jpg",
+        "plantName": "Oleander",
+        "scientificName": "Nerium oleander",
+        "benefits": [
+            "Pink Flowers",
+            "Drought Resistant",
+            "Adds Color"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A drought-resistant shrub that produces pink flowers and adds vibrant color."
+    },
+    {
+        "id": 44,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770053/available-for-pickup-delivery-indoor-plants-croton-10-inch-pot-30545900896448_js1opi.jpg",
+        "plantName": "Croton",
+        "scientificName": "Codiaeum variegatum",
+        "benefits": [
+            "Colorful Leaves",
+            "Ornamental",
+            "Heat Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "An ornamental shrub with colorful leaves that is heat-tolerant and easy to maintain."
+    },
+    {
+        "id": 45,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770095/drtzinniaorangea_soimfj.jpg",
+        "plantName": "Zinnia",
+        "scientificName": "Zinnia elegans",
+        "benefits": [
+            "Bright Flowers",
+            "Heat Tolerant",
+            "Attracts Pollinators"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering plant with vibrant blooms that attract pollinators and thrive in heat."
+    },
+    {
+        "id": 46,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770216/813d74M8FAL_xqusyz.jpg",
+        "plantName": "Mexican Petunia",
+        "scientificName": "Ruellia simplex",
+        "benefits": [
+            "Purple Flowers",
+            "Fast Growing",
+            "Drought Tolerant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "400 - 500 plants",
+        "description": "A fast-growing plant with purple flowers that is highly drought-tolerant."
+    },
+    {
+        "id": 47,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770269/Bougainvillea-glabra_fUlOHim1dBkN_zzmzdc.jpg",
+        "plantName": "Bougainvillea Glabra",
+        "scientificName": "Bougainvillea glabra",
+        "benefits": [
+            "Thorny",
+            "Colorful Bracts",
+            "Drought Resistant"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A thorny shrub with colorful bracts that is drought-resistant and ornamental."
+    },
+    {
+        "id": 48,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770306/Creeping-Fig-Staked-3_lngf5p.jpg",
+        "plantName": "Creeping Fig",
+        "scientificName": "Ficus pumila",
+        "benefits": [
+            "Fast Growing",
+            "Hardy",
+            "Covers Vertical Spaces"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A fast-growing groundcover vine that is hardy and covers vertical spaces efficiently."
+    },
+    {
+        "id": 49,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770347/HeavenlyBlueMorningGloryflowersbloomingonagreenvine_FerryMorseMorningGlorySeedsII_jewt3j.jpg",
+        "plantName": "Morning Glory",
+        "scientificName": "Ipomoea",
+        "benefits": [
+            "Blue/Purple Flowers",
+            "Fast Growing",
+            "Low Water Needs"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A fast-growing vine with beautiful blue or purple flowers and minimal water needs."
+    },
+    {
+        "id": 50,
+        "image": "https://res.cloudinary.com/dq3m6mhju/image/upload/v1731770433/coral_vine2_9-30_ljjmlc.jpg",
+        "plantName": "Coral Vine",
+        "scientificName": "Antigonon leptopus",
+        "benefits": [
+            "Pink Flowers",
+            "Hardy",
+            "Ornamental"
+        ],
+        "wateringCycle": "7 - 10 Days",
+        "waterRequired": "2 - 3 L",
+        "plantsFor1kmDivider": "500 - 600 plants",
+        "description": "A flowering vine with bright pink blooms that is hardy and adds ornamental beauty."
+    }
+]
